@@ -104,7 +104,7 @@
 
 
 - [Embedding Projector](https://projector.tensorflow.org/)
-    - 我們時常需要將圖片、文字轉成[高維向量 Embedding](https://en.wikipedia.org/wiki/Tensor)以供神經網路處理，而 Projector 能將此高維向量投影到 2、3 維空間上方便我們理解這些數據
+    - 我們時常需要將圖片、文字轉成[高維數字向量 Embedding](https://en.wikipedia.org/wiki/Tensor)以供神經網路處理，而 Projector 能將此高維向量投影到 2、3 維空間上方便我們理解這些數據
     - 這邊的 Projector 為一線上系統，但事實上你也可以[使用 Tensorboard 來視覺化自己的數據](https://www.tensorflow.org/guide/embedding)。
 
 
