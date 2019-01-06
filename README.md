@@ -62,7 +62,9 @@
 ## <div id='courses'>線上課程</div>
 看完[遊玩空間](#playgrounds)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
 
-這節列舉了一些有用的線上課程以及學習教材，幫助你掌握深度學習的基本知識。另外值得一提的是，大部分課程要求一定程度的 [Python](https://www.python.org/) 程式能力。
+這節列舉了一些有用的線上課程以及學習教材，幫助你掌握深度學習的基本知識（沒有特別註明的話皆為免費存取）。
+
+另外值得一提的是，大部分課程都要求一定程度的 [Python](https://www.python.org/) 程式能力。
 
 |[李宏毅的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)| [Deep Learning Specialization @ Coursera](https://www.coursera.org/specializations/deep-learning)
 |:---:|:---:|
@@ -70,7 +72,7 @@
 
 - [李宏毅的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
     - 大概是全世界最好、最完整的 Deep Learning <b>中文</b>學習資源。
-    - 影片內容涵蓋基本理論（約 10 小時觀看時間）一直到進階的[生成對抗網路 GAN](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C)以及[強化學習 RL](https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
+    - 影片內容涵蓋基本理論（約 10 小時觀看時間）一直到進階的[生成對抗網路 GAN](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C) 以及[強化學習 RL](https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
     - 你也可以從[這邊看到教授所有的 Youtube 課程播放清單](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)
 - [Deep Learning Specialization @ Coursera](https://www.coursera.org/specializations/deep-learning)
     - 原 Google Brain 的[吳恩達教授](https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE)的整個專項共分五堂課，從[神經網路的基礎](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)到能夠進行機器翻譯、語音辨識的[序列模型](https://www.coursera.org/learn/nlp-sequence-models)，每堂課預計 1 個月完成，收費採訂閱制
@@ -80,9 +82,9 @@
 |:---:|:---:|
 |<a href="https://course.fast.ai/index.html"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/fast-ai.jpg"></a>|<a href="https://www.kaggle.com/learn/deep-learning"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/kaggle-learn-dl.jpg"></a>
 - [Practical Deep Learning For Coders @ fast.ai](https://course.fast.ai/index.html)
-    - 7 週課程，一週約需安排 10 小時上課。由 Kaggle 競賽兩年第一的[傑里米·霍華德](https://www.kaggle.com/jhoward)講解深度學習
+    - 7 週課程，一週約需安排 10 小時上課。該課程由[傑里米·霍華德](https://www.kaggle.com/jhoward)來講解深度學習，其在知名數據建模和數據分析競賽平台 [Kaggle](https://www.kaggle.com/) 維持兩年的世界第一
 - [Deep Learning @ Kaggle Learn](https://www.kaggle.com/learn/deep-learning)
-    - 14 堂課程，主要使用 TensorFlow 進行實作
+    - 14 堂課程，主要使用 TensorFlow 實作深度學習模型
 
 ## <div id="tools">實用工具</div>
 這節列出一些在你的深度學習路上可以幫得上些忙的工具。
@@ -93,18 +95,17 @@
 
 - [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
     - 由 Google 提供的雲端 [Jupyter](https://jupyter.org/) 筆記本環境，讓你只要用瀏覽器就能馬上開始訓練深度學習模型。你甚至還可以使用一個免費的 [Tesla K80](https://www.nvidia.com/en-gb/data-center/tesla-k80/) GPU 或 [TPU](https://colab.research.google.com/notebooks/tpu.ipynb) 來加速訓練自己的模型
-    - 該計算環境也能與自己的 [Google Drive](https://colab.research.google.com/notebooks/io.ipynb) 做連結，做到完全雲端化
+    - 該計算環境也能與自己的 [Google Drive](https://colab.research.google.com/notebooks/io.ipynb) 做連結，讓運算雲端化的同時將筆記本 / 模型結果都同步到自己的筆電上
 - [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard)
     - TensorBoard 是一個視覺化工具，方便我們了解、除錯以及最佳化自己訓練的深度學習模型
-    - 除了 TensorFlow 以外，其他基於 Python 的機器學習框架大多也可以透過 [tensorboardX](https://github.com/lanpa/tensorboardX) 來使用 TensorBoard
+    - 除了 TensorFlow 以外，其他深度學習框架大都也有支援 TensorBoard
 
-||[Embedding Projector](https://projector.tensorflow.org/)|
+|[Embedding Projector](https://projector.tensorflow.org/)|To Be Updated|
 |:---:|:---:|
-||<a href="https://projector.tensorflow.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/embedding-projector.jpg"></a>
-
+|<a href="https://projector.tensorflow.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/embedding-projector.jpg"></a>|<img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>|
 
 - [Embedding Projector](https://projector.tensorflow.org/)
-    - 我們時常需要將圖片、文字轉成[高維數字向量 Embedding](https://en.wikipedia.org/wiki/Tensor)以供神經網路處理，而 Projector 能將此高維向量投影到 2、3 維空間上方便我們理解這些數據
+    - 我們時常需要將圖片、文字轉成[高維數字向量 Embedding](https://en.wikipedia.org/wiki/Tensor) 以供神經網路處理，而 Projector 能將此高維向量投影到 2、3 維空間上方便我們理解這些數據
     - 這邊的 Projector 為一線上系統，但事實上你也可以[使用 Tensorboard 來視覺化自己的數據](https://www.tensorflow.org/guide/embedding)。
 
 
