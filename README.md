@@ -2,12 +2,13 @@
 這裡紀錄了我在學習[深度學習](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)時蒐集的一些線上資源。內容由淺入深，希望能幫助到想深入了解這領域的你：）
 
 ## 本文內容
-- [TODO] 等全部小節名稱固定後
+- [遊樂場 Playground](#遊樂場-playground)
 
 ## 遊樂場 Playground
 這裡列舉了一些透過瀏覽器就能馬上開始遊玩 / 體驗深度學習的應用。
 
 適合對象：
+
 - 想要快速體會深度學習如何被應用在真實世界以及遊戲的人
 - 想要直觀理解[類神經網路](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)運作方式的人
 
