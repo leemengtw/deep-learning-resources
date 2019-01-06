@@ -43,7 +43,7 @@
 |:---:|:---:|
 |<a href="https://quickdraw.withgoogle.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/quickdraw.jpg"></a>|<a href="https://teachablemachine.withgoogle.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/teachable-machine.jpg"></a>
 
-- [Quick Draw](https://teachablemachine.withgoogle.com/)
+- [Quick Draw](https://quickdraw.withgoogle.com/)
     - 由 Google 推出的知名手寫塗鴉辨識，使用的神經網路架構有常見的[卷積神經網路 CNN ](https://zh.wikipedia.org/wiki/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)以及[循環神經網路 RNN](https://leemeng.tw/shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.html#%E6%9C%89%E8%A8%98%E6%86%B6%E7%9A%84%E5%BE%AA%E7%92%B0%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF_1)
     - 該深度學習模型會不斷將最新的筆觸當作輸入來預測使用者想畫的物件。你會驚嘆於她精準且即時的判斷
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
@@ -140,13 +140,21 @@
 |<a href="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tutorials/cs230-deep-learning-cheatsheet.jpg"></a>|<a href="https://github.com/GokuMohandas/practicalAI"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tutorials/practical-ai-pytorch.jpg"></a>
 
 - [Stanford CS230 Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
-    - 史丹佛大學的[深度學習課程 CS230](http://cs230.stanford.edu/) 釋出的深度學習小抄總結了學界最新的[卷積神經網路](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)及[循環神經網路](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)的知識，還有[訓練深度學習時需要使用到的技巧](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)，十分強大
+    - 史丹佛大學的[深度學習課程 CS230](http://cs230.stanford.edu/) 釋出的深度學習小抄總結了目前最新的[卷積神經網路](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)及[循環神經網路](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)知識，還包含了[訓練深度學習時需要使用到的技巧](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)，十分強大
     - 此小抄最適合已經熟悉基礎知識的同學隨時複習運用。你也可以從他們的 [Github Repo](https://github.com/afshinea/stanford-cs-230-deep-learning) 下載包含上述所有內容的[超級 VIP 小抄](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
 - [practicalAI](https://github.com/GokuMohandas/practicalAI)
-      - 在 Github 上超過 1 萬星的 Repo。除了深度學習，也有介紹 [Python 基礎](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/01_Python.ipynb)及資料處理函式庫 [Pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb) 的使用方式
+      - 在 Github 上超過 1 萬星的 Repo。除了深度學習，也有介紹 [Python 基礎](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/01_Python.ipynb)及 [Pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb) 的使用方式
       - 使用 [Pytorch](https://pytorch.org/) 框架來實現深度學習模型，且所有內容都是 Jupyter 筆記本，可以讓你在 Colab 或本地端執行
 
+## 待辦事項
+還有很多內容沒有被整理完成，以下是一些提醒自己接下來要追加的內容。
 
+- 優質部落格 / 文章來源
+- 深度學習術語對照表
+- 值得追蹤的業界 / 學界影響人物清單
+- 重要論文清單
+
+也歡迎你提供意見以及優質資源：）
     
     
     
