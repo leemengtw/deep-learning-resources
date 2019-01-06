@@ -96,7 +96,7 @@
     - 該計算環境也能與自己的 [Google Drive](https://colab.research.google.com/notebooks/io.ipynb) 做連結，做到完全雲端化
 - [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard)
     - TensorBoard 是一個視覺化工具，方便我們了解、除錯以及最佳化自己訓練的深度學習模型
-    - 除了 TensorFlow 以外，其他深度學習框架大都也有支援 TensorBoard
+    - 除了 TensorFlow 以外，其他基於 Python 的機器學習框架大多也可以透過 [tensorboardX](https://github.com/lanpa/tensorboardX) 來使用 TensorBoard
 
 ||[Embedding Projector](https://projector.tensorflow.org/)|
 |:---:|:---:|
