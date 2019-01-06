@@ -2,10 +2,13 @@
 這裡紀錄了我在學習[深度學習](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)時蒐集的一些線上資源。內容由淺入深，希望能幫助到想深入了解這領域的你：）
 
 ## 本文章節
-- [開拓視野的遊樂場](#playground)
-- [線上課程 & 教材](#courses)
+- [遊玩空間](#playground)
+- [線上課程](#courses)
+- [實用工具](#tools)
+- [其他教材](#tutorials)
 
-## <div id='playground'>開拓視野的遊樂場</div>
+
+## <div id='playground'>遊玩空間</div>
 這節列舉了一些透過瀏覽器就能馬上開始遊玩 / 體驗深度學習的應用。作為這些應用的使用者，你可以先高層次、直觀地了解深度學習能做些什麼。之後有興趣再進一步了解背後原理。
 
 這小節最適合：
@@ -56,84 +59,68 @@
 - [TensorFlow.js](https://js.tensorflow.org/)
     - TensorFlow.js 頁面有多個利用 JavaScript 實現的深度學習應用，如上圖中的[人類姿勢估計 Human Pose Estimation](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
     
-## <div id='courses'>線上課程 & 教材</div>
-看完[遊樂場](#playgrounds)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
+## <div id='courses'>線上課程</div>
+看完[遊玩空間](#playgrounds)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
 
-這節列舉了很多有用的線上課程以及學習教材，幫助你掌握深度學習的基本知識。
+這節列舉了一些有用的線上課程以及學習教材，幫助你掌握深度學習的基本知識。另外值得一提的是，大部分課程要求一定程度的 [Python](https://www.python.org/) 程式能力。
 
-另外值得一提的是，大部分課程要求一定程度的 [Python](https://www.python.org/) 程式能力。
-
-|[李宏毅的機器學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+|[李宏毅的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)| [Deep Learning Specialization @ Coursera](https://www.coursera.org/specializations/deep-learning)
 |:---:|:---:|
 |<a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/Hung-Yi-Lee-ml-courses.jpg"></a>|<a href="https://www.coursera.org/specializations/deep-learning"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/deep-learning-specification-coursera.jpg"></a>
 
-- 台大電機系[李宏毅教授](http://www.ee.ntu.edu.tw/profile?id=1020908)的機器學習課程
+- [李宏毅的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
     - 大概是全世界最好、最完整的 Deep Learning <b>中文</b>學習資源。
     - 影片內容涵蓋基本理論（約 10 小時觀看時間）一直到進階的[生成對抗網路 GAN](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C)以及[強化學習 RL](https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
     - 你也可以從[這邊看到教授所有的 Youtube 課程播放清單](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-    - 原 Google Brain 的[吳恩達教授](https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE)的深度學習專項課程是世界知名的課程，共分五小堂課，採訂閱制
+- [Deep Learning Specialization @ Coursera](https://www.coursera.org/specializations/deep-learning)
+    - 原 Google Brain 的[吳恩達教授](https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE)的整個專項共分五堂課，從[神經網路的基礎](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)到能夠進行機器翻譯、語音辨識的[序列模型](https://www.coursera.org/learn/nlp-sequence-models)，每堂課預計 1 個月完成，收費採訂閱制
     - 程式作業交互使用 [Numpy](http://www.numpy.org/)、[Keras](https://keras.io/) 以及 [TensorFlow](https://www.tensorflow.org/) 來實作深度學習
 
-|[Practical Deep Learning For Coders](https://course.fast.ai/index.html)| [Kaggle Learn: Deep Learning](https://www.kaggle.com/learn/deep-learning)
+|[Practical Deep Learning For Coders @ fast.ai](https://course.fast.ai/index.html)| [Deep Learning @ Kaggle Learn](https://www.kaggle.com/learn/deep-learning)
 |:---:|:---:|
 |<a href="https://course.fast.ai/index.html"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/fast-ai.jpg"></a>|<a href="https://www.kaggle.com/learn/deep-learning"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/kaggle-learn-dl.jpg"></a>
-- [Practical Deep Learning For Coders](https://course.fast.ai/index.html)
-    - [TODO]
-- [Kaggle Learn: Deep Learning](https://www.kaggle.com/learn/deep-learning)
-    - [TODO]
+- [Practical Deep Learning For Coders @ fast.ai](https://course.fast.ai/index.html)
+    - 7 週課程，一週約需安排 10 小時上課。由 Kaggle 競賽兩年第一的[傑里米·霍華德](https://www.kaggle.com/jhoward)講解深度學習
+- [Deep Learning @ Kaggle Learn](https://www.kaggle.com/learn/deep-learning)
+    - 14 堂課程，主要使用 TensorFlow 進行實作
 
+## <div id="tools">實用工具</div>
+這節列出一些在你的深度學習路上可以幫得上些忙的工具。
 
-|[]()| []()
+|[Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)| [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard)
 |:---:|:---:|
-|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/"></a>
-
-- 實作使用 [Keras](https://keras.io/)，在深度學習框架 [TensorFlow 2.0 中將成為其最重要的高層次 API](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
-
-
-
-
-## 實用工具
-
-- colab
-- embedding project
-- tensorboard
-- Seedbank
-
+|<a href="https://colab.research.google.com/notebooks/welcome.ipynb"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/colab.jpg"></a>|<a href="https://www.tensorflow.org/guide/summaries_and_tensorboard"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/tensorboard.jpg"></a>
 
 - [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
-    - A hosted Jupyter notebook environment that is free to use and requires no setup. Used to demonstrate the 
-- seedbank
-
+    - 由 Google 提供的雲端 [Jupyter](https://jupyter.org/) 筆記本環境，讓你只要用瀏覽器就能馬上開始訓練深度學習模型。你甚至還可以使用一個免費的 [Tesla K80](https://www.nvidia.com/en-gb/data-center/tesla-k80/) GPU 或 [TPU](https://colab.research.google.com/notebooks/tpu.ipynb) 來加速訓練自己的模型
+    - 該計算環境也能與自己的 [Google Drive](https://colab.research.google.com/notebooks/io.ipynb) 做連結，做到完全雲端化
+- [TensorBoard](https://www.tensorflow.org/guide/summaries_and_tensorboard)
+    - TensorBoard 是一個視覺化工具，方便我們了解、除錯以及最佳化自己訓練的深度學習模型
+    - 除了 TensorFlow 以外，其他深度學習框架大都也有支援 TensorBoard
 
 ||[Embedding Projector](https://projector.tensorflow.org/)|
 |:---:|:---:|
-||<a href="https://projector.tensorflow.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/embedding-projector.jpg"></a>
+||<a href="https://projector.tensorflow.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/embedding-projector.jpg"></a>
 
 
 - [Embedding Projector](https://projector.tensorflow.org/)
-    - 我們時常將圖片、文字轉成[高維向量 Embedding](https://en.wikipedia.org/wiki/Tensor)以供神經網路處理，而 Projector 能將此高維向量投影到 2、3 維空間上方便我們理解
-    - Projector 是 [Tensorboard](https://www.tensorflow.org/guide/summaries_and_tensorboard) 的[內建功能](https://www.tensorflow.org/guide/embedding)，你可以在這邊了解更多
-
-- cheatsheet
+    - 我們時常需要將圖片、文字轉成[高維向量 Embedding](https://en.wikipedia.org/wiki/Tensor)以供神經網路處理，而 Projector 能將此高維向量投影到 2、3 維空間上方便我們理解這些數據
+    - 這邊的 Projector 為一線上系統，但事實上你也可以[使用 Tensorboard 來視覺化自己的數據](https://www.tensorflow.org/guide/embedding)。
 
 
 
-## Framework
 
 
-## 部落格
+## <div id="tutorials">其他教材</div>
+這邊列出各種開源的深度學習教材，大多數皆以數據科學家常用的 [Jupyter 筆記本](https://jupyter.org/)呈現。
 
 
-## Newsletter
+|[Seedbank](https://research.google.com/seedbank/)| [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
+|:---:|:---:|
+|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tutorials/seedbank.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/"></a>
 
-
-## Colab notebook
-
-## Terminology
-- leemeng.tw/dl-terminology.html
-
-
-<p align="center">
-  <a href="https://damp-anchorage-60936.herokuapp.com/" target="_blank"><img src="images/cover.png" alt="Cover" width="60%"/></a>
-</p>
+- Seedbank
+    - 提供超過 100 個筆記本
+- [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
+    - 
+    - 實作使用 [Keras](https://keras.io/)，在深度學習框架 [TensorFlow 2.0 中將成為其最重要的高層次 API](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
