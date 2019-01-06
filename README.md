@@ -1,16 +1,17 @@
-# 深度學習資源 Deep Learning Resources
+# 由淺入深的深度學習資源
 這裡紀錄了我在學習[深度學習](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)時蒐集的一些線上資源。內容由淺入深，希望能幫助到想深入了解這領域的你：）
 
-## 本文內容
-- [遊樂場 Playground](#遊樂場-playground)
+## 本文章節
+- [遊樂場](#playground)
 
-## 遊樂場 Playground
-這裡列舉了一些透過瀏覽器就能馬上開始遊玩 / 體驗深度學習的應用。
+## <div id='playground'>遊樂場</div>
+這裡列舉了一些透過瀏覽器就能馬上開始遊玩 / 體驗深度學習的應用。作為這些應用的 End User，你可以先高層次、直觀地了解深度學習能做些什麼，在有興趣之後進一步了解背後原理。
 
-適合對象：
+這小節最適合：
 
-- 想要快速體會深度學習如何被應用在真實世界以及遊戲的人
-- 想要直觀理解[類神經網路](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)運作方式的人
+- 想要快速體會深度學習如何被應用在真實世界的人
+- 想利用深度學習技術來創造新東西、玩遊戲的人
+- 想要直觀理解[類神經網路（Artifical Neural Network）](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)運作方式的人
 
 |[Deep Playground](https://playground.tensorflow.org/)|[ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)|
 |:---:|:---:|
@@ -27,16 +28,12 @@
 |:---:|:---:|
 |<a href="https://magenta.tensorflow.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/magenta.jpg"></a>|<a href="https://experiments.withgoogle.com/collection/ai"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/google-ai-experiment.jpg"></a>
 
-<br/>
-
 - [Magenta](https://magenta.tensorflow.org/) 
     - 一個利用[機器學習](https://zh.wikipedia.org/zh-hant/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)來協助人們進行音樂以及藝術創作的開源專案
     - 可以在網站上的 [Demo 頁面](https://magenta.tensorflow.org/demos)嘗試各種由深度學習驅動的音樂 / 繪畫應用（如彈奏鋼琴、擊鼓）
 - [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
-    - 這邊展示了接近 40 個利用圖片、語言以及音樂來與使用者產生互動的機器學習 Apps，非常值得慢慢探索
+    - 這邊展示了接近 40 個利用圖片、語言以及音樂來與使用者產生互動的機器學習 Apps，值得慢慢探索
     - 知名例子有 [Quick Draw](https://quickdraw.withgoogle.com/) 以及 [Teachable Machine](https://teachablemachine.withgoogle.com/)，將在下方介紹
-
-<br/>
 
 |[Quick Draw](https://quickdraw.withgoogle.com/)|[Teachable Machine](https://teachablemachine.withgoogle.com/)|
 |:---:|:---:|
@@ -47,7 +44,6 @@
     - 該深度學習模型會不斷將最新的筆觸當作輸入來預測使用者想畫的物件。你會驚嘆於她精準且即時的判斷
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
     - 利用電腦 / 手機上的相機來訓練能將影像對應到其他圖片、音訊的神經網路，饒富趣味
-<br/>
 
 |[Fast Neural Style](https://tenso.rs/demos/fast-neural-style/)| [TensorFlow.js](https://js.tensorflow.org/)
 |:---:|:---:|
@@ -57,11 +53,8 @@
     - 展示如何使用 WebGL 在瀏覽器快速地進行[神經風格轉換 Neural Style Transfer](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
     - 你可以在此網站選擇一張原始圖片，並將其畫風轉變成藝術照
 - [TensorFlow.js](https://js.tensorflow.org/)
-    - TensorFlow.js 頁面有多個利用 JavaScript 實現的深度學習應用，如上圖中的 [人類姿勢估計 Human Pose Estimation](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+    - TensorFlow.js 頁面有多個利用 JavaScript 實現的深度學習應用，如上圖中的[人類姿勢估計 Human Pose Estimation](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
     
-<br/>
-
-
 ## 線上教材 Courses / Tutorials
 
 在看過上面的遊樂場以後，我相信你會有些 idea 想要實現，這時候你會需要理論 / 程式基礎
