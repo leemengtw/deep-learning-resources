@@ -1,5 +1,5 @@
 # 由淺入深的深度學習資源
-這裡紀錄了我在學習[深度學習](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)時蒐集的一些線上資源。內容由淺入深，希望能幫助到想深入了解這領域的你：）
+這裡紀錄了我在學習[深度學習](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)時蒐集的一些線上資源。內容由淺入深，而且會不斷更新，希望能幫助你順利地開始學習：）
 
 ## 本文章節
 - [遊玩空間](#playground)
@@ -65,7 +65,8 @@
 ### [Fast Neural Style](https://tenso.rs/demos/fast-neural-style/)
 
 - 展示如何使用 WebGL 在瀏覽器快速地進行[神經風格轉換 Neural Style Transfer](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
-- 你可以在此網站選擇一張原始圖片，並將其畫風轉變成藝術照
+- 你可以在此網站選擇一張原始圖片，並將其畫風轉變成指定的藝術照
+- [Deepart.io](https://deepart.io/) 也提供類似服務
 
 ### [TensorFlow.js](https://js.tensorflow.org/)
 
@@ -74,7 +75,7 @@
     
     
 ## <div id='courses'>線上課程</div>
-看完[遊玩空間](#playgrounds)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
+看完[遊玩空間](#playground)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
 
 這節列舉了一些有用的線上課程以及學習教材，幫助你掌握深度學習的基本知識（沒有特別註明的話皆為免費存取）。
 
@@ -173,11 +174,12 @@
 - 使用 [Pytorch](https://pytorch.org/) 框架來實現深度學習模型，且所有內容都是 Jupyter 筆記本，可以讓你在 Colab 或本地端執行
 
 ## 待辦事項
-還有很多內容沒有被整理完成，以下是一些提醒自己接下來要追加的內容。
+還有很多內容沒有被整理完成，以下是作者正在整理並打算追加的項目：
 
 - 優質部落格 / 文章來源
 - 深度學習術語對照表
 - 值得追蹤的業界 / 學界影響人物清單
 - 重要論文清單
+- 精簡無圖列表版本
 
-也歡迎你提供意見以及優質資源：）
+也歡迎你提供寶貴意見以及優質的學習資源：）
