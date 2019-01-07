@@ -14,9 +14,9 @@
 
 這小節最適合：
 
-- 想要快速體會深度學習如何被應用在真實世界的初心者
-- 想從別人的深度學習應用取得一些靈感的開發者
+- 想要快速體會深度學習如何被應用在真實世界的好奇寶寶
 - 想要直觀理解[類神經網路（Artifical Neural Network）](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)運作方式的人
+- 想從別人的深度學習應用取得一些靈感的開發者
 
 |[Deep Playground](https://playground.tensorflow.org/)|[ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/index.html)|
 |:---:|:---:|
@@ -66,7 +66,7 @@
 ### [Fast Neural Style](https://tenso.rs/demos/fast-neural-style/)
 
 - 展示如何使用 WebGL 在瀏覽器快速地進行[神經風格轉換 Neural Style Transfer](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398)
-- 你可以在此網站選擇一張原始圖片，並將其畫風轉變成指定的藝術照
+- 你可以選擇任何一張圖片，並在此網站上將其畫風轉變成指定的藝術照
 - [Deepart.io](https://deepart.io/) 也提供類似服務
 
 ### [TensorFlow.js](https://js.tensorflow.org/)
@@ -158,7 +158,7 @@
 
 - 讓你可以一覽 Colab 上超過 100 個跟機器學習相關的筆記本，並以此為基礎建立各種深度學習應用
 - 熱門筆記本包含[神經機器翻譯](https://research.google.com/seedbank/seed/5695159920492544)、[音樂生成](https://research.google.com/seedbank/seed/5681034041491456)以及 [DeepDream](https://research.google.com/seedbank/seed/5631986051842048)
-    - 因為是 Google 服務，筆記本大多使用 TensorFlow 與 Keras 來實現模型
+- 因為是 Google 服務，筆記本大多使用 TensorFlow 與 Keras 來實現模型
     
 ### [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
@@ -193,13 +193,13 @@
 - [Jay Alammar's blog](https://jalammar.github.io/)
     - 以清楚易懂的視覺化解釋深度學習概念。[這篇](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)用大量易懂的動畫說明[神經機器翻譯](https://en.wikipedia.org/wiki/Neural_machine_translation)，而在[這篇](https://jalammar.github.io/illustrated-bert/)則介紹如何利用如 [ELMo](https://allennlp.org/elmo)、[BERT](https://github.com/google-research/bert) 等預先訓練過的強大模型在自然語言處理進行[遷移學習](https://en.wikipedia.org/wiki/Transfer_learning)
 - [Andrej Karpathy's blog](http://karpathy.github.io/)
-    - 現為 Tesla AI 負責人的 Andrej Karpathy 在[這篇](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)明確說明為何循環神經網路 RNN，並提供不少應用實例及視覺化來幫助理解 RNN 模型究竟學到了什麼，是學習 RNN 的朋友幾乎一定會碰到的一篇文章
+    - 現為 Tesla AI 負責人的 Andrej Karpathy 在[這篇](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)明確說明何謂循環神經網路 RNN。文中提供不少應用實例及視覺化來幫助我們理解 RNN 模型究竟學到了什麼，是學習 RNN 的朋友幾乎一定會碰到的一篇文章
 
 ## <div id="papers">經典論文</div>
 
 因為目前作者比較專注在自然語言處理以及機器翻譯，這邊比較多 NLP 相關的論文。
 
-整理完其他資源後會為每篇論文加些重要注解。
+整理完其他資源後會為每篇論文加些關鍵字與總結。
 
 - [2003/02 A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [2013/08 Generating Sequences With Recurrent Neural Networks](https://arxiv.org/abs/1308.0850)
@@ -219,5 +219,6 @@
 - 深度學習術語對照表
 - 值得追蹤的業界 / 學界影響人物清單
 - 無圖的資源列表版本
+- （你的推薦與建議）
 
-也歡迎你推薦更多優質的學習資源以及其他寶貴意見來幫助更多人輕鬆學習深度學習：）
+也歡迎你推薦更多優質的學習資源以及其他寶貴意見來幫助更多人學習：）
