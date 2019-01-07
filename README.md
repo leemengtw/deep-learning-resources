@@ -6,7 +6,8 @@
 - [線上課程](#courses)
 - [實用工具](#tools)
 - [其他教材](#tutorials)
-
+- [優質文章](#blogs)
+- [經典論文](#papers)
 
 ## <div id='playground'>遊玩空間</div>
 這節列舉了一些透過瀏覽器就能馬上開始遊玩 / 體驗深度學習的應用。作為這些應用的使用者，你可以先高層次、直觀地了解深度學習能做些什麼。之後有興趣再進一步了解背後原理。
@@ -128,14 +129,19 @@
 - 除了 TensorFlow 以外，其他基於 Python 的機器學習框架大多也可以透過 [tensorboardX](https://github.com/lanpa/tensorboardX) 來使用 TensorBoard
 
 
-|[Embedding Projector](https://projector.tensorflow.org/)|To Be Updated|
+|[Embedding Projector](https://projector.tensorflow.org/)|[Lucid](https://github.com/tensorflow/lucid)|
 |:---:|:---:|
-|<a href="https://projector.tensorflow.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/embedding-projector.jpg"></a>|<img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>|
+|<a href="https://projector.tensorflow.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/embedding-projector.jpg"></a>|<a href="https://github.com/tensorflow/lucid"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/lucid.jpg"></a>|
 
 ### [Embedding Projector](https://projector.tensorflow.org/)
 
 - 我們時常需要將圖片、文字轉成[高維數字向量 Embedding](https://en.wikipedia.org/wiki/Tensor) 以供神經網路處理，而 Projector 能將此高維向量投影到 2、3 維空間上方便我們理解這些數據
 - Projector 網站讓你在線上探索幾個常見的資料集，但事實上你也可以[利用 Tensorboard 來視覺化自己的數據](https://www.tensorflow.org/guide/embedding)。
+
+### [Lucid](https://github.com/tensorflow/lucid)
+
+- Lucid 是一個嘗試讓神經網路變得更容易解釋的開源專案，裡頭包含了很多視覺化神經網路的筆記本
+- 你可以直接在 Colab 上執行這些筆記本並了解如何視覺化神經網路
 
 ## <div id="tutorials">其他教材</div>
 除了[線上課程](#courses)以外，網路上還有無數的學習資源。
@@ -173,13 +179,45 @@
 - 在 Github 上超過 1 萬星的 Repo。除了深度學習，也有介紹 [Python 基礎](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/01_Python.ipynb)及 [Pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb) 的使用方式
 - 使用 [Pytorch](https://pytorch.org/) 框架來實現深度學習模型，且所有內容都是 Jupyter 筆記本，可以讓你在 Colab 或本地端執行
 
-## 待辦事項
-還有很多內容沒有被整理完成，以下是作者正在整理並打算追加的項目：
+## <div id="blogs">優質文章</div>
+這邊列舉了一些幫助我釐清重要概念的部落格以及網站，希望能加速你探索這個深度學習世界。
 
-- 優質部落格 / 文章來源
+只要 Google 一下就能發現這些部落格裡頭很多文章都有中文翻譯。但為了尊重原作者，在這邊都列出原文連結。
+
+- [Distill](https://distill.pub/about/)
+    - 用非常高水準且互動的方式來說明複雜的深度學習概念。[Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)、[Ian Goodfellow](http://www.iangoodfellow.com/) 及 [Andrej Karpathy](http://cs.stanford.edu/people/karpathy/) 等知名人士皆參與其中
+- [R2D3: 圖解機器學習](http://www.r2d3.us/%E5%9C%96%E8%A7%A3%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%AC%AC%E4%B8%80%E7%AB%A0/)
+    - 利用非常直覺易懂的視覺化來說明機器學習，連結為中文版
+- [Christopher Olah's blog](http://colah.github.io/)
+    - 詳細解釋不少深度學習概念。作者在[這篇](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)就詳細地解釋了[長短期記憶 LSTM](https://leemeng.tw/shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.html#%E8%A8%98%E6%86%B6%E5%8A%9B%E5%A5%BD%E7%9A%84-LSTM-%E7%B4%B0%E8%83%9E)的概念與變形；在[這篇](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)則解釋何為 CNN 的卷積運算
+- [Jay Alammar's blog](https://jalammar.github.io/)
+    - 以清楚易懂的視覺化解釋深度學習概念。[這篇](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)用大量易懂的動畫說明[神經機器翻譯](https://en.wikipedia.org/wiki/Neural_machine_translation)，而在[這篇](https://jalammar.github.io/illustrated-bert/)則介紹如何利用如 [ELMo](https://allennlp.org/elmo)、[BERT](https://github.com/google-research/bert) 等預先訓練過的強大模型在自然語言處理進行[遷移學習](https://en.wikipedia.org/wiki/Transfer_learning)
+- [Andrej Karpathy's blog](http://karpathy.github.io/)
+    - 現為 Tesla AI 負責人的 Andrej Karpathy 在[這篇](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)明確說明為何循環神經網路 RNN，並提供不少應用實例及視覺化來幫助理解 RNN 模型究竟學到了什麼，是學習 RNN 的朋友幾乎一定會碰到的一篇文章
+
+## <div id="papers">經典論文</div>
+
+因為目前作者比較專注在自然語言處理以及機器翻譯，這邊比較多 NLP 相關的論文。
+
+整理完其他資源後會為每篇論文加些重要注解。
+
+- [2003/02 A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- [2013/08 Generating Sequences With Recurrent Neural Networks](https://arxiv.org/abs/1308.0850)
+- [2014/09 Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+- [2015/08 Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
+- [2015/12 Semi-supervised Sequence Learning](https://arxiv.org/abs/1511.01432)
+- [2017/06 Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [2017/06 One Model To Learn Them All](https://arxiv.org/abs/1706.05137)
+- [2018/01 Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
+- [2018/02 Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
+- [2018/06 Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- [2018/10 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+
+## 待辦事項
+還有不少內容沒有整理完成，以下是作者正在整理並已經打算追加的項目：
+
 - 深度學習術語對照表
 - 值得追蹤的業界 / 學界影響人物清單
-- 重要論文清單
-- 精簡無圖列表版本
+- 無圖的資源列表版本
 
-也歡迎你提供寶貴意見以及優質的學習資源：）
+也歡迎你推薦更多優質的學習資源以及其他寶貴意見來幫助更多人輕鬆學習深度學習：）
