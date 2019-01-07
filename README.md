@@ -1,4 +1,8 @@
-# 由淺入深的深度學習資源
+<div align="center">
+  <img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/paper-ball.jpg">
+</div>
+
+-----------------
 這裡紀錄了我在學習[深度學習](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)時蒐集的一些線上資源。內容由淺入深，而且會不斷更新，希望能幫助你順利地開始學習：）
 
 ## 本文章節
@@ -189,7 +193,7 @@
 - [R2D3: 圖解機器學習](http://www.r2d3.us/%E5%9C%96%E8%A7%A3%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E7%AC%AC%E4%B8%80%E7%AB%A0/)
     - 利用非常直覺易懂的視覺化來說明機器學習，連結為中文版
 - [Christopher Olah's blog](http://colah.github.io/)
-    - 詳細解釋不少深度學習概念。作者在[這篇](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)就詳細地解釋了[長短期記憶 LSTM](https://leemeng.tw/shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.html#%E8%A8%98%E6%86%B6%E5%8A%9B%E5%A5%BD%E7%9A%84-LSTM-%E7%B4%B0%E8%83%9E)的概念與變形；在[這篇](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)則解釋何為 CNN 的卷積運算
+    - 詳細解釋不少深度學習概念。作者在[這篇](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)就詳細地解釋了[長短期記憶 LSTM](https://leemeng.tw/shortest-path-to-the-nlp-world-a-gentle-guide-of-natural-language-processing-and-deep-learning-for-everyone.html#%E8%A8%98%E6%86%B6%E5%8A%9B%E5%A5%BD%E7%9A%84-LSTM-%E7%B4%B0%E8%83%9E) 的概念與變形；在[這篇](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)則解釋何為 CNN 的卷積運算
 - [Jay Alammar's blog](https://jalammar.github.io/)
     - 以清楚易懂的視覺化解釋深度學習概念。[這篇](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)用大量易懂的動畫說明[神經機器翻譯](https://en.wikipedia.org/wiki/Neural_machine_translation)，而在[這篇](https://jalammar.github.io/illustrated-bert/)則介紹如何利用如 [ELMo](https://allennlp.org/elmo)、[BERT](https://github.com/google-research/bert) 等預先訓練過的強大模型在自然語言處理進行[遷移學習](https://en.wikipedia.org/wiki/Transfer_learning)
 - [Andrej Karpathy's blog](http://karpathy.github.io/)
