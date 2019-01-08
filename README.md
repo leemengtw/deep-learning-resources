@@ -212,12 +212,17 @@
 - [2014/09 Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 - [2015/08 Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
 - [2015/12 Semi-supervised Sequence Learning](https://arxiv.org/abs/1511.01432)
+    - 推出一套無監督式的預訓練方法。使用無標籤數據訓練後的 RNN 模型在之後的監督式任務表現更好
 - [2017/06 Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+    - Google 推出新的神經網路架構 [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)。這個基於自注意力機制的架構特別適合語言理解任務
 - [2017/06 One Model To Learn Them All](https://arxiv.org/abs/1706.05137)
 - [2018/01 Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 - [2018/02 Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
+    - [ELMo 詞向量](https://allennlp.org/elmo)，利用兩獨立訓練的 LSTM 獲取雙向訊息
 - [2018/06 Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+    - [OpenAI](https://blog.openai.com/language-unsupervised/) 利用無監督式預訓練以及 Transformer 架構訓練出來的模型表現在多個 NLP 任務表現良好。約使用 8 億詞彙量的資料集
 - [2018/10 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+    - Google 暴力美學。利用深層 Transformer 架構、2 個精心設計的預訓練任務以及約 33 億詞彙量的資料集訓練後，得到表現卓越的語言代表模型，打破 11 項 NLP 任務紀錄
 
 ## 待辦事項
 還有不少內容沒有整理完成，以下是作者正在整理並已經打算追加的項目：
