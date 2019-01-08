@@ -207,6 +207,7 @@
 整理完其他資源後會為每篇論文加些關鍵字與總結。
 
 - [2003/02 A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+- [2013/01 Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
 - [2013/08 Generating Sequences With Recurrent Neural Networks](https://arxiv.org/abs/1308.0850)
 - [2014/09 Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 - [2015/08 Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025)
