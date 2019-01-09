@@ -77,8 +77,7 @@
 
 - TensorFlow.js 頁面有多個利用 JavaScript 實現的深度學習應用，如上圖中的[人類姿勢估計 Human Pose Estimation](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)。
 - 你可以在該應用裡頭打開自己的攝影機，看該應用能不能偵測到你與朋友的姿勢。
-    
-    
+
 ## <div id='courses'>線上課程</div>
 看完[遊玩空間](#playground)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
 
@@ -116,7 +115,7 @@
 
 |[Elements of Artificial Intelligence](https://www.elementsofai.com/)| To Be Updated
 |:---:|:---:|
-|<a href="https://www.elementsofai.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/elementsofai.jpg"></a>|<a href="https://www.kaggle.com/learn/deep-learning"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="https://www.elementsofai.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/elementsofai.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
 
 ### [Elements of Artificial Intelligence](https://www.elementsofai.com/)
 
@@ -191,6 +190,15 @@
 ### [practicalAI](https://github.com/GokuMohandas/practicalAI)
 - 在 Github 上超過 1 萬星的 Repo。除了深度學習，也有介紹 [Python 基礎](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/01_Python.ipynb)及 [Pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb) 的使用方式
 - 使用 [Pytorch](https://pytorch.org/) 框架來實現深度學習模型，且所有內容都是 Jupyter 筆記本，可以讓你在 Colab 或本地端執行
+
+|[AllenNLP Demo](http://demo.allennlp.org/)| To Be Updated
+|:---:|:---:|
+|<a href="http://demo.allennlp.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/allennlp-demo.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+
+### [AllenNLP Demo](http://demo.allennlp.org/)
+
+- 清楚地展示了如[機器理解](https://demo.allennlp.org/machine-comprehension)、[命名實體識別](https://demo.allennlp.org/named-entity-recognition)等多個自然語言處理任務的情境。每個任務的情境包含了任務所需要的輸入、SOTA 模型的預測結果以及模型內部的注意力機制，對理解一個 NLP 任務的實際應用情境有很大幫助
+- [AllenNLP](https://allennlp.org/) 是一個由 [AI2](https://allenai.org/) 以 [PyTorch](https://pytorch.org/) 實現的自然語言處理函式庫
 
 ## <div id="blogs">優質文章</div>
 這邊列舉了一些幫助我釐清重要概念的部落格以及網站，希望能加速你探索這個深度學習世界。
