@@ -114,6 +114,14 @@
 - 14 堂課程，主要使用 TensorFlow 實作深度學習模型
 - 內容主要專注在[電腦視覺（Computer Vision）](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)以及如何應用[遷移學習（Transfer Learning）](https://en.wikipedia.org/wiki/Transfer_learning)
 
+|[Elements of Artificial Intelligence](https://www.elementsofai.com/)| To Be Updated
+|:---:|:---:|
+|<a href="https://www.elementsofai.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/elementsofai.jpg"></a>|<a href="https://www.kaggle.com/learn/deep-learning"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+
+### [Elements of Artificial Intelligence](https://www.elementsofai.com/)
+
+- 芬蘭最高學府[赫爾辛基大學](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA%E5%A4%A7%E5%AD%A6)推出的 AI 課程。此課程目的在於讓所有人都能了解 AI，不需要任何程式經驗。這堂課非常適合完全沒有接觸過深度學習或是相關領域的人
+- 課程分 6 個部分，包含「何謂 AI ？」、「真實世界的 AI」、「機器學習」以及「神經網路」等章節
 
 ## <div id="tools">實用工具</div>
 這節列出一些在你的深度學習路上可以幫得上些忙的工具。
