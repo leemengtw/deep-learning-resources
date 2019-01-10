@@ -217,11 +217,11 @@
     - 現為 Tesla AI 負責人的 Andrej Karpathy 在[這篇](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)明確說明何謂循環神經網路 RNN。文中提供不少應用實例及視覺化來幫助我們理解 RNN 模型究竟學到了什麼，是學習 RNN 的朋友幾乎一定會碰到的一篇文章
 
 ## <div id="papers">經典論文</div>
+這邊依發表時間列出深度學習領域的經典 / 重要論文。
 
+為了幫助你快速掌握論文內容以及歷年的研究趨勢，每篇論文下會有非常簡短的介紹（WIP）。
 
-因為目前作者比較專注在自然語言處理以及機器翻譯，這邊比較多 NLP 相關的論文。
-
-整理完其他資源後會為每篇論文加些關鍵字與總結。
+但我們推薦有興趣的人自行閱讀論文以深入了解。
 
 ### 自然語言處理 Natural Language Processing (NLP)
 - [2003/02 A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
