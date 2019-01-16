@@ -113,14 +113,19 @@
 - 14 堂課程，主要使用 TensorFlow 實作深度學習模型
 - 內容主要專注在[電腦視覺（Computer Vision）](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)以及如何應用[遷移學習（Transfer Learning）](https://en.wikipedia.org/wiki/Transfer_learning)
 
-|[Elements of Artificial Intelligence](https://www.elementsofai.com/)| To Be Updated
+|[Elements of Artificial Intelligence](https://www.elementsofai.com/)| [MIT Deep Learning](https://deeplearning.mit.edu/)
 |:---:|:---:|
-|<a href="https://www.elementsofai.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/elementsofai.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="https://www.elementsofai.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/elementsofai.jpg"></a>|<a href="https://selfdrivingcars.mit.edu/deeptraffic"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/mlt-deep-learning.jpg"></a>
 
 ### [Elements of Artificial Intelligence](https://www.elementsofai.com/)
 
 - 芬蘭最高學府[赫爾辛基大學](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E8%BE%9B%E5%9F%BA%E5%A4%A7%E5%AD%A6)推出的 AI 課程。此課程目的在於讓所有人都能了解 AI，不需要任何程式經驗。這堂課非常適合完全沒有接觸過深度學習或是相關領域的人
 - 課程分 6 個部分，包含「何謂 AI ？」、「真實世界的 AI」、「機器學習」以及「神經網路」等章節
+
+### [MIT Deep Learning](https://deeplearning.mit.edu/)
+
+- 麻省理工學院推出的深度學習課程，內容包含深度學習基礎、深度強化學習以及自動駕駛相關知識。[Github Repo](https://github.com/lexfridman/mit-deep-learning) 包含了多個教學筆記本，值得參考
+- 上圖是 [DeepTraffic](https://selfdrivingcars.mit.edu/deeptraffic/)，由 MIT 的研究科學家 [Lex Fridman](https://lexfridman.com/) 推出的一個深度強化學習競賽。此競賽目標是建立一個可以在高速公路上駕駛汽車的神經網路。你可以在[這裡](https://selfdrivingcars.mit.edu/deeptraffic/)看到線上 Demo 以及詳細說明
 
 ## <div id="tools">實用工具</div>
 這節列出一些在你的深度學習路上可以幫得上些忙的工具。
@@ -282,6 +287,7 @@
 非常歡迎你一起加入改善這個 Repo，讓更多人有方向地學習 Deep Learning：）
 
 如果你有
+
 - 其他值得推薦的深度學習資源
 - 針對此 Repo 內容的改善建議
 - 其他任何你想得到的東西
@@ -289,5 +295,3 @@
 都歡迎你[提出新的 Issue](https://github.com/leemengtaiwan/deep-learning-resources/issues/new) 來讓我們知道。
 
 如果是想增加新資源的話，只附上連結也是沒有問題的，謝謝！
-
-
