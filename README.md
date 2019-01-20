@@ -247,31 +247,35 @@
 - [2018/10 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
     - Google 暴力美學。利用深層 Transformer 架構、2 個精心設計的預訓練任務以及約 33 億詞彙量的資料集訓練後，得到表現卓越的語言代表模型，打破 11 項 NLP 任務紀錄
 
-### 電腦視覺 Computer Vision (CV) (In progress and to be tidied up)
+### 電腦視覺 Computer Vision (CV)
+#### 類神經網路架構 Neural Network Architecture
 - [1998/01 Gradient-Based Learning Applied to Document Recognition (LeNet-5)](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
-- [2009/06 ImageNet: A Large-Scale Hierarchical Image Database (ImageNet)](http://www.image-net.org/papers/imagenet_cvpr09.pdf)
 - [2012/12 ImageNet Classification with Deep Convolutional Neural Networks (AlexNet)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-- [2013/11 Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN)](https://arxiv.org/abs/1311.2524)
-- [2013/12 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks (OverFeat)](https://arxiv.org/abs/1312.6229)
-- [2014/06 Generative Adversarial Networks (GAN)](https://arxiv.org/abs/1406.2661)
 - [2014/06 DeepFace: Closing the Gap to Human-Level Performance in Face Verification (DeepFace)](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
 - [2014/09 Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG)](https://arxiv.org/abs/1409.1556)
 - [2014/09 Goint deeper with convolutions (GoogLeNet)](https://arxiv.org/abs/1409.4842)
 - [2014/11 Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038)
-- [2015/04 Fast R-CNN](https://arxiv.org/abs/1504.08083)
 - [2015/05 U-Net: Convolutional Networks for Biomedical Image Segmentation (U-Net)](https://arxiv.org/abs/1505.04597)
-- [2015/06 Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)](https://arxiv.org/abs/1506.01497)
-- [2015/06 You Only Look Once: Unified, Real-Time Object Detection (YOLO)](https://arxiv.org/abs/1506.02640)
-- [2015/13 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434)
-- [2015/12 SSD: Single Shot MultiBox Detector (SSD)](https://arxiv.org/abs/1512.02325)
 - [2015/12 Deep Residual Learning for Image Recognition (ResNet)](https://arxiv.org/abs/1512.03385)
-- [2016/12 YOLO9000: Better, Faster, Stronger (YOLOv2)](https://arxiv.org/abs/1612.08242)
-- [2017/01 Wasserstein GAN (WGAN)](https://arxiv.org/abs/1701.07875)
-- [2017/03 Mask R-CNN](https://arxiv.org/abs/1703.06870)
-- [2017/03 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://arxiv.org/abs/1703.10593)
 - [2017/04 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (MobileNets)](https://arxiv.org/abs/1704.04861)
 - [2017/07 ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices (ShuffleNet)](https://arxiv.org/abs/1707.01083)
+#### 資料集 Dataset
+- [2009/06 ImageNet: A Large-Scale Hierarchical Image Database (ImageNet)](http://www.image-net.org/papers/imagenet_cvpr09.pdf)
+#### 物體偵測與切割 Object Detection and Segmentation
+- [2013/11 Rich feature hierarchies for accurate object detection and semantic segmentation (R-CNN)](https://arxiv.org/abs/1311.2524)
+- [2013/12 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks (OverFeat)](https://arxiv.org/abs/1312.6229)
+- [2015/04 Fast R-CNN](https://arxiv.org/abs/1504.08083)
+- [2015/06 Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)](https://arxiv.org/abs/1506.01497)
+- [2015/06 You Only Look Once: Unified, Real-Time Object Detection (YOLO)](https://arxiv.org/abs/1506.02640)
+- [2015/12 SSD: Single Shot MultiBox Detector (SSD)](https://arxiv.org/abs/1512.02325)
+- [2016/12 YOLO9000: Better, Faster, Stronger (YOLOv2)](https://arxiv.org/abs/1612.08242)
+- [2017/03 Mask R-CNN](https://arxiv.org/abs/1703.06870)
 - [2018/04 YOLOv3: An Incremental Improvement (YOLOv3)](https://arxiv.org/abs/1804.02767)
+#### 生成模型 Generative Models
+- [2014/06 Generative Adversarial Networks (GAN)](https://arxiv.org/abs/1406.2661)
+- [2015/13 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434)
+- [2017/01 Wasserstein GAN (WGAN)](https://arxiv.org/abs/1701.07875)
+- [2017/03 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://arxiv.org/abs/1703.10593)
 
 ## 待辦事項
 還有不少內容正在整理，以下是目前我們打算增加的一些項目：
