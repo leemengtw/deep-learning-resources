@@ -12,6 +12,7 @@
 - [其他教材](#tutorials)
 - [優質文章](#blogs)
 - [經典論文](#papers)
+- [其他整理](#collections)
 
 ## <div id='playground'>遊玩空間</div>
 這節列舉了一些透過瀏覽器就能馬上開始遊玩 / 體驗深度學習的應用。作為這些應用的使用者，你可以先高層次、直觀地了解深度學習能做些什麼。之後有興趣再進一步了解背後原理。
@@ -276,6 +277,13 @@
 - [2015/13 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434)
 - [2017/01 Wasserstein GAN (WGAN)](https://arxiv.org/abs/1701.07875)
 - [2017/03 Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://arxiv.org/abs/1703.10593)
+
+## <div id="collections">其他整理</div>
+這邊列出其他優質的資源整理網站 / Github Repo，供你繼續探索深度學習。
+
+### [deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean)
+- 整理了不少深度學習資源，但最值得參考的是數據集以及論文的分類整理。
+
 
 ## 待辦事項
 還有不少內容正在整理，以下是目前我們打算增加的一些項目：
