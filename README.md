@@ -81,7 +81,7 @@
 
 |[GAN Lab](https://poloclub.github.io/ganlab/)| To Be Updated
 |:---:|:---:|
-|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/gan-lab.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="https://poloclub.github.io/ganlab/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/gan-lab.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
 
 ### [GAN Lab](https://poloclub.github.io/ganlab/)
 
@@ -95,11 +95,11 @@
 
 另外值得一提的是，大部分課程都要求一定程度的 [Python](https://www.python.org/) 程式能力。
 
-|[李宏毅教授的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)| [Deep Learning Specialization @ Coursera](https://www.coursera.org/specializations/deep-learning)
+|[李宏毅教授的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)| [Deep Learning Specialization @ Coursera](https://www.coursera.org/specializations/deep-learning)
 |:---:|:---:|
 |<a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/Hung-Yi-Lee-ml-courses.jpg"></a>|<a href="https://www.coursera.org/specializations/deep-learning"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/deep-learning-specification-coursera.jpg"></a>
 
-### [李宏毅教授的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+### [李宏毅教授的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 
 - 大概是全世界最好、最完整的 Deep Learning <b>中文</b>學習資源。
 - 影片內容涵蓋基本理論（約 10 小時觀看時間）一直到進階的[生成對抗網路 GAN](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C) 以及[強化學習 RL](https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
@@ -139,7 +139,7 @@
 
 |[6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)| To Be Updated
 |:---:|:---:|
-|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/intro-to-deeplearning-mit.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="http://introtodeeplearning.com"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/intro-to-deeplearning-mit.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
 
 ### [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)
 
