@@ -79,6 +79,15 @@
 - TensorFlow.js 頁面有多個利用 JavaScript 實現的深度學習應用，如上圖中的[人類姿勢估計 Human Pose Estimation](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)。
 - 你可以在該應用裡頭打開自己的攝影機，看該應用能不能偵測到你與朋友的姿勢。
 
+|[GAN Lab](https://poloclub.github.io/ganlab/)| To Be Updated
+|:---:|:---:|
+|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/gan-lab.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+
+### [GAN Lab](https://poloclub.github.io/ganlab/)
+
+- [對抗生成網路（**G**enerative **A**dversarial **N**etwork，簡稱GAN）](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C)是非監督式學習的一種方法，通過讓兩個神經網路相互博弈的方式進行學習。此網站以 [TensorFlow.js](https://js.tensorflow.org/) 實作 GAN 中兩個神經網路的學習過程，幫助有興趣的你更直觀地理解神奇的 GAN 的運作方式
+
+
 ## <div id='courses'>線上課程</div>
 看完[遊玩空間](#playground)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
 
@@ -127,6 +136,14 @@
 
 - 麻省理工學院推出的深度學習課程，內容包含深度學習基礎、深度強化學習以及自動駕駛相關知識。[Github Repo](https://github.com/lexfridman/mit-deep-learning) 包含了多個教學筆記本，值得參考
 - 上圖是 [DeepTraffic](https://selfdrivingcars.mit.edu/deeptraffic/)，由 MIT 的研究科學家 [Lex Fridman](https://lexfridman.com/) 推出的一個深度強化學習競賽。此競賽目標是建立一個可以在高速公路上駕駛汽車的神經網路。你可以在[這裡](https://selfdrivingcars.mit.edu/deeptraffic/)看到線上 Demo 以及詳細說明
+
+|[6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)| To Be Updated
+|:---:|:---:|
+|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/intro-to-deeplearning-mit.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+
+### [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)
+
+- 麻省理工學院推出的另一堂基礎深度學習課程，介紹深度學習以及其應用。內容涵蓋機器翻譯、圖像辨識以及更多其他應用。此課程使用 Python 以及 TensorFlow 來實作作業，並預期學生具備基礎的微積分（梯度 & Chain Rule）以及線性代數（矩陣相乘）
 
 ## <div id="tools">實用工具</div>
 這節列出一些在你的深度學習路上可以幫得上些忙的工具。
