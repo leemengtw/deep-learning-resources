@@ -187,14 +187,20 @@
 - Lucid 是一個嘗試讓神經網路變得更容易解釋的開源專案，裡頭包含了很多視覺化神經網路的筆記本
 - 你可以直接在 Colab 上執行這些筆記本並了解如何視覺化神經網路
 
-|[Papers with Code](https://paperswithcode.com/)| To Be Updated
+|[Papers with Code](https://paperswithcode.com/)| [What-If Tool](https://pair-code.github.io/what-if-tool/)
 |:---:|:---:|
-|<a href="https://paperswithcode.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/papers-with-code.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="https://paperswithcode.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/papers-with-code.jpg"></a>|<a href="https://pair-code.github.io/what-if-tool/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/what-if-tool.jpg"></a>
 
 ### [Papers with Code](https://paperswithcode.com/)
 
 - 將機器學習的學術論文、程式碼實作以及 SOTA 的評價排行榜全部整理匯總在一起的網站，非常適合想要持續追蹤學術及業界最新研究趨勢的人
 - 在這邊可以瀏覽包含電腦視覺、自然語言處理等各大領域在不同任務上表現最好的論文、實作以及資料集
+
+### [What-If Tool](https://pair-code.github.io/what-if-tool/)
+
+- 一個與 [TensorBoard](#tensorboard) 以及 Jupyter Notebook 整合的探索工具，讓使用者不需寫程式碼就能輕鬆觀察機器學習模型的內部運作以及嘗試各種 What-if 問題（如果 ~ 會怎麼樣？）
+- 基本上就是用來觀察**已訓練**的模型在測試資料集上的表現。利用此工具，使用者可以了解（不僅限於）以下的問題：模型在各類別數據上的表現有無差距？模型是否存在偏見？應該如何調整 Native / Positive False 的比例？
+- 此工具的一大亮點在於讓非專業領域人士也能探索、理解 ML 模型表現。且只要給定模型與資料集, 就不需要每次為了 What-if 問題就寫用過即丟的程式碼
 
 ## <div id="tutorials">其他教材</div>
 除了[線上課程](#courses)以外，網路上還有無數的學習資源。
