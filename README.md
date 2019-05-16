@@ -79,14 +79,19 @@
 - TensorFlow.js 頁面有多個利用 JavaScript 實現的深度學習應用，如上圖中的[人類姿勢估計 Human Pose Estimation](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)。
 - 你可以在該應用裡頭打開自己的攝影機，看該應用能不能偵測到你與朋友的姿勢。
 
-|[GAN Lab](https://poloclub.github.io/ganlab/)| To Be Updated
+|[GAN Lab](https://poloclub.github.io/ganlab/)| [Talk to Transformer](https://talktotransformer.com/)
 |:---:|:---:|
-|<a href="https://poloclub.github.io/ganlab/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/gan-lab.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="https://poloclub.github.io/ganlab/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/gan-lab.jpg"></a>|<a href="https://talktotransformer.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/talk_to_transformer.jpg"></a>
 
 ### [GAN Lab](https://poloclub.github.io/ganlab/)
 
 - [對抗生成網路（**G**enerative **A**dversarial **N**etwork，簡稱GAN）](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C)是非監督式學習的一種方法，通過讓兩個神經網路相互博弈的方式進行學習。此網站以 [TensorFlow.js](https://js.tensorflow.org/) 實作 GAN 中兩個神經網路的學習過程，幫助有興趣的你更直觀地理解神奇的 GAN 的運作方式
 
+### [Talk to Transformer](https://talktotransformer.com/)
+
+- 展示了一個由 OpenAI 推出，名為 [GPT-2 的無監督式語言模型](https://openai.com/blog/better-language-models/)。該模型以 Google 發表的神經網路架構 [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) 為基底，在給定一段魔戒或是復仇者聯盟的文字內容，該模型可以自己生成唯妙唯俏的延伸劇情。
+- 想要進一步瞭解何謂 Transformer，推薦閱讀 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)。
+- 你也可以參考[讓 AI 寫點金庸：如何用 TensorFlow 2.0 及 TensorFlow.js 寫天龍八部](https://leemeng.tw/how-to-generate-interesting-text-with-tensorflow2-and-tensorflow-js.html)來看如何使用 LSTM 達到類似的文本生成效果
 
 ## <div id='courses'>線上課程</div>
 看完[遊玩空間](#playground)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
