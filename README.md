@@ -90,8 +90,19 @@
 ### [Talk to Transformer](https://talktotransformer.com/)
 
 - 展示了一個由 OpenAI 推出，名為 [GPT-2 的無監督式語言模型](https://openai.com/blog/better-language-models/)。該模型以 Google 發表的神經網路架構 [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) 為基底，在給定一段魔戒或是復仇者聯盟的文字內容，該模型可以自己生成唯妙唯俏的延伸劇情。
-- 想要進一步瞭解何謂 Transformer，推薦閱讀 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)。
+- 想要深入了解 Transformer，推薦閱讀：
+  - [淺談神經機器翻譯 & 用 Transformer 與 TensorFlow 2 英翻中](https://leemeng.tw/neural-machine-translation-with-transformer-and-tensorflow2.html)
+  - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - 你也可以參考[讓 AI 寫點金庸：如何用 TensorFlow 2.0 及 TensorFlow.js 寫天龍八部](https://leemeng.tw/how-to-generate-interesting-text-with-tensorflow2-and-tensorflow-js.html)來看如何使用 LSTM 達到類似的文本生成效果
+
+|[NVIDIA AI PLAYGROUND](https://www.nvidia.com/en-us/research/ai-playground/)|  To Be Updated |
+|:---:|:---:|
+|<a href="https://www.nvidia.com/en-us/research/ai-playground/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/nvidia-ai-playground.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+
+### [NVIDIA AI PLAYGROUND](https://www.nvidia.com/en-us/research/ai-playground/)
+- 提供 [GauGAN](https://arxiv.org/abs/1903.07291) 的線上展示，讓你可以利用簡單的筆觸來生成真實世界的風景圖片，也能上傳自己的圖片做風格轉換
+- 提供 [Image Impainting](https://arxiv.org/abs/1804.07723) 服務，讓使用者自由抹去部分圖片並讓 AI 自動生成被抹去的區塊
+
 
 ## <div id='courses'>線上課程</div>
 看完[遊玩空間](#playground)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
