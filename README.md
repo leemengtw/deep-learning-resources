@@ -294,6 +294,8 @@
 - [2017/06 Attention Is All You Need](https://arxiv.org/abs/1706.03762)
     - Google 推出新的神經網路架構 [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)。這個基於自注意力機制的架構特別適合語言理解任務
 - [2017/06 One Model To Learn Them All](https://arxiv.org/abs/1706.05137)
+- [2017/08 Learned in Translation: Contextualized Word Vectors](https://arxiv.org/abs/1708.00107)
+    - 監督式預訓練。透過 BiLSTM 與 Encoder-Decoder 架構預先訓練機器翻譯任務並將訓練後的 Encoder 拿來做特徵擷取。將 Encoder 的輸出作為語境向量（Context Vectors, CoVe）處理下游任務
 - [2018/01 Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
 - [2018/02 Deep contextualized word representations](https://arxiv.org/abs/1802.05365)
     - [ELMo 詞向量](https://allennlp.org/elmo)，利用兩獨立訓練的 LSTM 獲取雙向訊息
@@ -301,6 +303,11 @@
     - [OpenAI](https://blog.openai.com/language-unsupervised/) 利用無監督式預訓練以及 Transformer 架構訓練出來的模型表現在多個 NLP 任務表現良好。約使用 8 億詞彙量的資料集
 - [2018/10 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
     - Google 暴力美學。利用深層 Transformer 架構、2 個精心設計的預訓練任務以及約 33 億詞彙量的資料集訓練後，得到表現卓越的語言代表模型，打破 11 項 NLP 任務紀錄
+- [2019/05 MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450)
+    - Microsoft 利用 Encoder-Decoder 架構以及連續遮罩（consecutive mask）將 BERT 推廣到自然語言生成（NLG）類型任務
+- [2019/05 Unified Language Model Pre-training for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.03197)
+    - 預訓練階段利用不同遮罩控制 context，同時訓練雙向 LM、單向 LM 以及 Seq2Seq LM。其產生的預訓練模型可以處理 NLU 以及 NLG 任務，並在不加入外部數據的情況下打敗 BERT 在 GLUE 的紀錄
+
 
 ### 電腦視覺 Computer Vision (CV)
 #### 類神經網路架構 Neural Network Architecture
