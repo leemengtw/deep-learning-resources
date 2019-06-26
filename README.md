@@ -95,13 +95,16 @@
   - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - 你也可以參考[讓 AI 寫點金庸：如何用 TensorFlow 2.0 及 TensorFlow.js 寫天龍八部](https://leemeng.tw/how-to-generate-interesting-text-with-tensorflow2-and-tensorflow-js.html)來看如何使用 LSTM 達到類似的文本生成效果
 
-|[NVIDIA AI PLAYGROUND](https://www.nvidia.com/en-us/research/ai-playground/)|  To Be Updated |
+|[NVIDIA AI PLAYGROUND](https://www.nvidia.com/en-us/research/ai-playground/)| [Grover](https://grover.allenai.org/) |
 |:---:|:---:|
-|<a href="https://www.nvidia.com/en-us/research/ai-playground/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/nvidia-ai-playground.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="https://www.nvidia.com/en-us/research/ai-playground/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/nvidia-ai-playground.jpg"></a>|<a href="https://grover.allenai.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/grover.jpg"></a>
 
 ### [NVIDIA AI PLAYGROUND](https://www.nvidia.com/en-us/research/ai-playground/)
 - 提供 [GauGAN](https://arxiv.org/abs/1903.07291) 的線上展示，讓你可以利用簡單的筆觸來生成真實世界的風景圖片，也能上傳自己的圖片做風格轉換
 - 提供 [Image Impainting](https://arxiv.org/abs/1804.07723) 服務，讓使用者自由抹去部分圖片並讓 AI 自動生成被抹去的區塊
+
+### [Grover](https://grover.allenai.org/)
+- 一個偵測 / 生成神經假新聞（Neural Fake News）的研究，其網頁展示如何自動生成假新聞。
 
 
 ## <div id='courses'>線上課程</div>
