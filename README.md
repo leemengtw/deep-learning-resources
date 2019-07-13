@@ -168,6 +168,14 @@
 
 - Coursera 課程。[吳恩達](https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE)教授在這堂簡短的課程裡頭，針對非技術人士以及企業經理人說明何謂 AI、如何建立 AI 專案以及闡述 AI 與社會的關係。此課程十分適合沒有技術背景的讀者。[從 AI For Everyone 學到的 10 個重要 AI 概念](https://leemeng.tw/10-key-takeaways-from-ai-for-everyone-course.html)則是我個人上完課後整理的心得分享。
 
+|[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)| To Be Updated
+|:---:|:---:|
+|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/cs224n.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+
+### [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+
+- 由[史丹佛 AI 實驗室的 Christopher Manning 教授](http://technews.tw/2018/11/21/stanford-ai-lab-christopher-manning/)從語言學、計算機科學的角度講述自然語言處理的所有必要知識，是想要打好 NLP 基礎的人不可不學的一堂課。課程約有 20 部影片，每部約長 1.5 小時。
+
 
 ## <div id="tools">實用工具</div>
 這節列出一些在你的深度學習路上可以幫得上些忙的工具。
