@@ -117,7 +117,7 @@
 
 ### [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
 
-- 以 Nvidia 的 [StyleGAN]https://github.com/NVlabs/stylegan) 隨機生成的 Waifu（左）。作者 [Gwern](https://www.gwern.net/) 同時也使用[開源的小型 GPT-2](https://blog.openai.com/better-language-models/)隨機生成一段動漫劇情（右）。自釋出後已超越一百萬使用者拜訪該網站。
+- 以 Nvidia 的 [StyleGAN](https://github.com/NVlabs/stylegan) 隨機生成的 Waifu（右圖左側）。作者 [Gwern](https://www.gwern.net/) 同時也使用[開源的小型 GPT-2](https://blog.openai.com/better-language-models/) 隨機生成一段動漫劇情（右圖右側）。自釋出後已超越一百萬使用者拜訪該網站。
 - 你也可以用大螢幕查看作者的另個相關網站：[These Waifus Do Not Exist](https://www.obormot.net/demos/these-waifus-do-not-exist)，用全畫面一次「觀賞」數十名隨機生成的 Waifus。
 
 ## <div id='courses'>線上課程</div>
