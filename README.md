@@ -106,6 +106,19 @@
 ### [Grover](https://grover.allenai.org/)
 - 一個偵測 / 生成神經假新聞（Neural Fake News）的研究，其網頁展示如何自動生成假新聞。
 
+|[Waifu Vending Machine](https://waifulabs.com)| [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
+|:---:|:---:|
+|<a href="https://waifulabs.com"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/waifulabs.jpg"></a>|<a href="https://www.thiswaifudoesnotexist.net/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/thiswaifudoesnotexist.jpg"></a>
+
+### [Waifu Vending Machine](https://waifulabs.com)
+
+- Waifu 來自日文 ワイフ，指的是一些非常受到歡迎、且被不少玩家/觀眾視為妻子的動漫女性角色。[Sizigi Studios](https://twitter.com/SizigiStudios) 團隊利用 GAN 隨機初始 16 名虛擬動漫角色，讓使用者可以進一步依照喜愛來創造專屬於自己的 Waifu。
+- Waifu Vending Machine 產生的 Waifu 品質很高，使用者可以下載並分享自己創造的 Waifu，也可以選擇購買印製該 Waifu 的海報與抱枕。
+
+### [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
+
+- 以 Nvidia 的 [StyleGAN]https://github.com/NVlabs/stylegan) 隨機生成的 Waifu（左）。作者 [Gwern](https://www.gwern.net/) 同時也使用[開源的小型 GPT-2](https://blog.openai.com/better-language-models/)隨機生成一段動漫劇情（右）。自釋出後已超越一百萬使用者拜訪該網站。
+- 你也可以用大螢幕查看作者的另個相關網站：[These Waifus Do Not Exist](https://www.obormot.net/demos/these-waifus-do-not-exist)，用全畫面一次「觀賞」數十名隨機生成的 Waifus。
 
 ## <div id='courses'>線上課程</div>
 看完[遊玩空間](#playground)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
