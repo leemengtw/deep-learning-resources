@@ -37,6 +37,8 @@
 - 訓練類神經網路來解決經典的 [MNIST 手寫數字辨識問題](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)、[圖片生成](https://cs.stanford.edu/people/karpathy/convnetjs/demo/image_regression.html)以及[增強式學習](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 - 由 Tesla 的 AI 負責人 [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) 建立
 
+---
+
 |[Magenta](https://magenta.tensorflow.org/)|[Google AI Experiments](https://experiments.withgoogle.com/collection/ai)|
 |:---:|:---:|
 |<a href="https://magenta.tensorflow.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/magenta.jpg"></a>|<a href="https://experiments.withgoogle.com/collection/ai"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/google-ai-experiment.jpg"></a>
@@ -51,6 +53,8 @@
 - 這邊展示了接近 40 個利用圖片、語言以及音樂來與使用者產生互動的機器學習 Apps，值得慢慢探索
 - 知名例子有 [Quick Draw](https://quickdraw.withgoogle.com/) 以及 [Teachable Machine](https://teachablemachine.withgoogle.com/)，將在下方介紹
 
+---
+
 |[Quick Draw](https://quickdraw.withgoogle.com/)|[Teachable Machine](https://teachablemachine.withgoogle.com/)|
 |:---:|:---:|
 |<a href="https://quickdraw.withgoogle.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/quickdraw.jpg"></a>|<a href="https://teachablemachine.withgoogle.com/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/teachable-machine.jpg"></a>
@@ -63,6 +67,8 @@
 ### [Teachable Machine](https://teachablemachine.withgoogle.com/)
 - 利用電腦 / 手機上的相機來訓練能將影像對應到其他圖片、音訊的神經網路，饒富趣味
 - 透過這例子，你將暸解機器學習的神奇之處以及其侷限所在
+
+---
 
 |[Fast Neural Style](https://tenso.rs/demos/fast-neural-style/)| [TensorFlow.js](https://js.tensorflow.org/)
 |:---:|:---:|
@@ -78,6 +84,8 @@
 
 - TensorFlow.js 頁面有多個利用 JavaScript 實現的深度學習應用，如上圖中的[人類姿勢估計 Human Pose Estimation](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)。
 - 你可以在該應用裡頭打開自己的攝影機，看該應用能不能偵測到你與朋友的姿勢。
+
+---
 
 |[GAN Lab](https://poloclub.github.io/ganlab/)| [Talk to Transformer](https://talktotransformer.com/)
 |:---:|:---:|
@@ -95,6 +103,8 @@
   - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - 你也可以參考[讓 AI 寫點金庸：如何用 TensorFlow 2.0 及 TensorFlow.js 寫天龍八部](https://leemeng.tw/how-to-generate-interesting-text-with-tensorflow2-and-tensorflow-js.html)來看如何使用 LSTM 達到類似的文本生成效果
 
+---
+
 |[NVIDIA AI PLAYGROUND](https://www.nvidia.com/en-us/research/ai-playground/)| [Grover](https://grover.allenai.org/) |
 |:---:|:---:|
 |<a href="https://www.nvidia.com/en-us/research/ai-playground/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/nvidia-ai-playground.jpg"></a>|<a href="https://grover.allenai.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/grover.jpg"></a>
@@ -105,6 +115,8 @@
 
 ### [Grover](https://grover.allenai.org/)
 - 一個偵測 / 生成神經假新聞（Neural Fake News）的研究，其網頁展示如何自動生成假新聞。
+
+---
 
 |[Waifu Vending Machine](https://waifulabs.com)| [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
 |:---:|:---:|
@@ -142,6 +154,8 @@
 - 原 Google Brain 的[吳恩達](https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE)教授開授的整個深度學習專項課程共分五堂課，從[神經網路的基礎](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)到能夠進行機器翻譯、語音辨識的[序列模型](https://www.coursera.org/learn/nlp-sequence-models)，每堂課預計 1 個月完成，收費採訂閱制
 - 程式作業會交互使用 [Numpy](http://www.numpy.org/)、[Keras](https://keras.io/) 以及 [TensorFlow](https://www.tensorflow.org/) 來實作深度學習模型
 
+---
+
 |[Practical Deep Learning For Coders @ fast.ai](https://course.fast.ai/index.html)| [Deep Learning @ Kaggle Learn](https://www.kaggle.com/learn/deep-learning)
 |:---:|:---:|
 |<a href="https://course.fast.ai/index.html"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/fast-ai.jpg"></a>|<a href="https://www.kaggle.com/learn/deep-learning"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/kaggle-learn-dl.jpg"></a>
@@ -154,6 +168,8 @@
 
 - 14 堂課程，主要使用 TensorFlow 實作深度學習模型
 - 內容主要專注在[電腦視覺（Computer Vision）](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)以及如何應用[遷移學習（Transfer Learning）](https://en.wikipedia.org/wiki/Transfer_learning)
+
+---
 
 |[Elements of Artificial Intelligence](https://www.elementsofai.com/)| [MIT Deep Learning](https://deeplearning.mit.edu/)
 |:---:|:---:|
@@ -169,6 +185,8 @@
 - 麻省理工學院推出的深度學習課程，內容包含深度學習基礎、深度強化學習以及自動駕駛相關知識。[Github Repo](https://github.com/lexfridman/mit-deep-learning) 包含了多個教學筆記本，值得參考
 - 上圖是 [DeepTraffic](https://selfdrivingcars.mit.edu/deeptraffic/)，由 MIT 的研究科學家 [Lex Fridman](https://lexfridman.com/) 推出的一個深度強化學習競賽。此競賽目標是建立一個可以在高速公路上駕駛汽車的神經網路。你可以在[這裡](https://selfdrivingcars.mit.edu/deeptraffic/)看到線上 Demo 以及詳細說明
 
+---
+
 |[6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)|[AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 |:---:|:---:|
 |<a href="http://introtodeeplearning.com"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/intro-to-deeplearning-mit.jpg"></a>|<a href="https://www.coursera.org/learn/ai-for-everyone"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/ai-for-everyone.jpg"></a>
@@ -180,6 +198,8 @@
 ### [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 
 - Coursera 課程。[吳恩達](https://zh.wikipedia.org/wiki/%E5%90%B4%E6%81%A9%E8%BE%BE)教授在這堂簡短的課程裡頭，針對非技術人士以及企業經理人說明何謂 AI、如何建立 AI 專案以及闡述 AI 與社會的關係。此課程十分適合沒有技術背景的讀者。[從 AI For Everyone 學到的 10 個重要 AI 概念](https://leemeng.tw/10-key-takeaways-from-ai-for-everyone-course.html)則是我個人上完課後整理的心得分享。
+
+---
 
 |[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)| To Be Updated
 |:---:|:---:|
@@ -207,6 +227,7 @@
 - TensorBoard 是一個視覺化工具，方便我們了解、除錯並最佳化自己訓練的深度學習模型
 - 除了 TensorFlow 以外，其他基於 Python 的機器學習框架大多也可以透過 [tensorboardX](https://github.com/lanpa/tensorboardX) 來使用 TensorBoard
 
+---
 
 |[Embedding Projector](https://projector.tensorflow.org/)|[Lucid](https://github.com/tensorflow/lucid)|
 |:---:|:---:|
@@ -221,6 +242,8 @@
 
 - Lucid 是一個嘗試讓神經網路變得更容易解釋的開源專案，裡頭包含了很多視覺化神經網路的筆記本
 - 你可以直接在 Colab 上執行這些筆記本並了解如何視覺化神經網路
+
+---
 
 |[Papers with Code](https://paperswithcode.com/)| [What-If Tool](https://pair-code.github.io/what-if-tool/)
 |:---:|:---:|
@@ -261,6 +284,8 @@
 - 繁體中文的翻譯書籍則為 [Deep learning 深度學習必讀 - Keras 大神帶你用 Python 實作](https://www.tenlong.com.tw/products/9789863125501?list_name=i-r-zh_tw)
 - Keras 在 TensorFlow 2.0 中[為其最重要的高層次 API](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
 
+---
+
 |[Stanford CS230 Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)|[practicalAI](https://github.com/GokuMohandas/practicalAI)|
 |:---:|:---:|
 |<a href="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tutorials/cs230-deep-learning-cheatsheet.jpg"></a>|<a href="https://github.com/GokuMohandas/practicalAI"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tutorials/practical-ai-pytorch.jpg"></a>
@@ -274,6 +299,8 @@
 ### [practicalAI](https://github.com/GokuMohandas/practicalAI)
 - 在 Github 上超過 1 萬星的 Repo。除了深度學習，也有介紹 [Python 基礎](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/01_Python.ipynb)及 [Pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb) 的使用方式
 - 使用 [Pytorch](https://pytorch.org/) 框架來實現深度學習模型，且所有內容都是 Jupyter 筆記本，可以讓你在 Colab 或本地端執行
+
+---
 
 |[AllenNLP Demo](http://demo.allennlp.org/)| To Be Updated
 |:---:|:---:|
