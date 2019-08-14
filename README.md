@@ -149,6 +149,7 @@
 - 大概是全世界最好、最完整的 Deep Learning <b>中文</b>學習資源。
 - 影片內容涵蓋基本理論（約 10 小時觀看時間）一直到進階的[生成對抗網路 GAN](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C) 以及[強化學習 RL](https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
 - 你也可以從[這邊](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)看到教授的 Youtube 課程清單
+- [李宏毅机器学习笔记(LeeML-Notes，簡體)](https://github.com/datawhalechina/leeml-notes) 則將教授上課的影片內容轉換為完整的筆記，方便快速瀏覽所有課程內容。
 
 ### [Deep Learning Specialization @ Coursera](https://www.coursera.org/specializations/deep-learning)
 
