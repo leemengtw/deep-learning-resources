@@ -203,9 +203,9 @@
 
 ---
 
-|[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)| [CS231n: CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+|[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)| [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 |:---:|:---:|
-|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/cs224n.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/cs231n.jpg"></a>
+|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/cs224n.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/cs231n.jpg"></a>
 
 ### [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
