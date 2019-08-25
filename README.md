@@ -203,13 +203,18 @@
 
 ---
 
-|[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)| To Be Updated
+|[CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)| [CS231n: CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 |:---:|:---:|
-|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/cs224n.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/cs224n.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/cs231n.jpg"></a>
 
 ### [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
 - 由[史丹佛 AI 實驗室的 Christopher Manning 教授](http://technews.tw/2018/11/21/stanford-ai-lab-christopher-manning/)從語言學、計算機科學的角度講述自然語言處理的所有必要知識，是想要打好 NLP 基礎的人不可不學的一堂課。課程約有 20 部影片，每部約長 1.5 小時。
+
+### [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+
+- 由[史丹佛 Vision Lab 的李飛飛（Fei-Fei Li）教授](http://vision.stanford.edu/index.html)等人以[圖像分類](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture02.pdf)任務為軸心，講述卷積神經網路以及所有電腦視覺的相關基礎知識。這是想要學會使用（卷積）神經網路來處理圖像數據的人不可不學的一堂課。[Youtube 上有 16 部 2017 年的課程錄影](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)，每部約長 1 小時。
+- 課程中也包含了不少線上展示，如[線性分類器的 loss 視覺化](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)、[kNN demo](http://vision.stanford.edu/teaching/cs231n-demos/knn/) 以及圖像分類的 [CIFAR-10 demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)。
 
 
 ## <div id="tools">實用工具</div>
