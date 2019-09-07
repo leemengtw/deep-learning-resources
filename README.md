@@ -274,8 +274,8 @@
 
 ### [BertViz](https://github.com/jessevig/bertviz)
 
-- BertViz 是一個視覺化自注意力機制的工具，可以用來理解如 [BERT](https://arxiv.org/abs/1810.04805)、[GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) 以及 [RoBERTa](https://arxiv.org/abs/1907.11692) 等知名 NLP 模型的內部運作
-- 以下兩篇文章都大量使用 BertViz 來直觀解說 BERT 與 GPT-2 的內部運作
+- BertViz 是一個視覺化自注意力機制的工具，可以用來理解如 [BERT](https://arxiv.org/abs/1810.04805)、[GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) 及 [RoBERTa](https://arxiv.org/abs/1907.11692) 等知名 NLP 模型的內部運作
+- 以下則是幾篇透過 BertViz 來直觀解說 BERT 與 GPT-2 的文章
   - [進擊的 BERT：NLP 界的巨人之力與遷移學習](https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html)
   - [直觀理解 GPT-2 語言模型並生成金庸武俠小說](https://leemeng.tw/gpt2-language-model-generate-chinese-jing-yong-novels.html)
 
