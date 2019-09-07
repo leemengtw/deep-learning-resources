@@ -266,6 +266,20 @@
 - 基本上就是用來觀察**已訓練**的模型在測試資料集上的表現。利用此工具，使用者可以了解（不僅限於）以下的問題：模型在各類別數據上的表現有無差距？模型是否存在偏見？應該如何調整 Native / Positive False 的比例？
 - 此工具的一大亮點在於讓非專業領域人士也能探索、理解 ML 模型表現。且只要給定模型與資料集, 就不需要每次為了 What-if 問題就寫用過即丟的程式碼
 
+---
+
+|[BertViz](https://github.com/jessevig/bertviz)| To Be Updated
+|:---:|:---:|
+|<a href="https://github.com/jessevig/bertviz"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/bertviz.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+
+### [BertViz](https://github.com/jessevig/bertviz)
+
+- BertViz 是一個視覺化自注意力機制的工具，可以用來理解如 [BERT](https://arxiv.org/abs/1810.04805)、[GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) 以及 [RoBERTa](https://arxiv.org/abs/1907.11692) 等知名 NLP 模型的內部運作
+- 以下兩篇文章都大量使用 BertViz 來直觀解說 BERT 與 GPT-2 的內部運作
+  - [進擊的 BERT：NLP 界的巨人之力與遷移學習](https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html)
+  - [直觀理解 GPT-2 語言模型並生成金庸武俠小說](https://leemeng.tw/gpt2-language-model-generate-chinese-jing-yong-novels.html)
+
+
 ## <div id="tutorials">其他教材</div>
 除了[線上課程](#courses)以外，網路上還有無數的學習資源。
 
