@@ -100,9 +100,8 @@
 - 展示了一個由 OpenAI 推出，名為 [GPT-2 的無監督式語言模型](https://openai.com/blog/better-language-models/)。該模型以 Google 發表的神經網路架構 [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) 為基底，在給定一段魔戒或是復仇者聯盟的文字內容，該模型可以自己生成唯妙唯俏的延伸劇情。你也可以嘗試 [AllenAI GPT-2 Explorer](https://gpt2.apps.allenai.org/?text=Joel%20is) 來觀察 GPT-2 預測下個字的機率。
 - 想要深入了解 Transformer 或 GPT-2，推薦閱讀：
   - [淺談神經機器翻譯 & 用 Transformer 與 TensorFlow 2 英翻中](https://leemeng.tw/neural-machine-translation-with-transformer-and-tensorflow2.html)
-  - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+  - [直觀理解 GPT-2 語言模型並生成金庸武俠小說](https://leemeng.tw/gpt2-language-model-generate-chinese-jing-yong-novels.html)
   - [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
-- 你也可以參考[讓 AI 寫點金庸：如何用 TensorFlow 2.0 及 TensorFlow.js 寫天龍八部](https://leemeng.tw/how-to-generate-interesting-text-with-tensorflow2-and-tensorflow-js.html)來看如何使用 LSTM 達到類似的文本生成效果
 
 ---
 
