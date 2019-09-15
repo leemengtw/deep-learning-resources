@@ -132,6 +132,18 @@
 - 以 Nvidia 的 [StyleGAN](https://github.com/NVlabs/stylegan) 隨機生成的 Waifu（右圖左側）。作者 [Gwern](https://www.gwern.net/) 同時也使用[開源的小型 GPT-2](https://blog.openai.com/better-language-models/) 隨機生成一段動漫劇情（右圖右側）。自釋出後已超越一百萬使用者拜訪該網站。
 - 你也可以用大螢幕查看作者的另個相關網站：[These Waifus Do Not Exist](https://www.obormot.net/demos/these-waifus-do-not-exist)，用全畫面一次「觀賞」數十名隨機生成的 Waifus。
 
+---
+
+|[AI Notes](http://www.deeplearning.ai/ai-notes/)| To Be Updated
+|:---:|:---:|
+|<a href="AI Notes"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/deeplearning-ai-notes.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+
+### [AI Notes](http://www.deeplearning.ai/ai-notes/)
+
+- AI Notes 是 [吳恩達的 Deep Learning 專項課程](#deep-learning-specialization--coursera)的輔助教材，使用數學證明以及由 TensorFlow.js 建立的線上 demo 讓你可以直觀地學習[如何初始化神經網路權重](http://www.deeplearning.ai/ai-notes/initialization/)及[如何最佳化模型權重](http://www.deeplearning.ai/ai-notes/optimization/) 
+- 縮圖為 [Parameter optimization in neural networks](http://www.deeplearning.ai/ai-notes/optimization/) 單元中使用不同 Optimiziers 訓練模型的線上 demo
+
+
 ## <div id='courses'>線上課程</div>
 看完[遊玩空間](#playground)的大量實際應用，相信你已經迫不及待地想要開始學習強大的深度學習技術了。
 
