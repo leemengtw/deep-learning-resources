@@ -136,7 +136,7 @@
 
 |[AI Notes](http://www.deeplearning.ai/ai-notes/)| To Be Updated
 |:---:|:---:|
-|<a href="AI Notes"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/deeplearning-ai-notes.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="http://www.deeplearning.ai/ai-notes/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/playground/deeplearning-ai-notes.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
 
 ### [AI Notes](http://www.deeplearning.ai/ai-notes/)
 
