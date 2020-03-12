@@ -3,7 +3,7 @@
 </div>
 
 -----------------
-這裡紀錄了我在學習[深度學習](https://zh.wikipedia.org/wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)時蒐集的一些線上資源。內容由淺入深，而且會不斷更新，希望能幫助你順利地開始學習：）
+這裡紀錄了我在學習[深度學習](https://leemeng.tw/deep-learning-for-everyone-understand-neural-net-and-linear-algebra.html)時蒐集的一些線上資源。內容由淺入深，而且會不斷更新，希望能幫助你順利地開始學習：）
 
 ## 本文章節
 - [遊玩空間](#playground)
@@ -155,12 +155,12 @@
 |:---:|:---:|
 |<a href="http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/Hung-Yi-Lee-ml-courses.jpg"></a>|<a href="https://www.coursera.org/specializations/deep-learning"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/deep-learning-specification-coursera.jpg"></a>
 
-### [李宏毅教授的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+### [李宏毅教授的機器學習 / 深度學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
 
-- 大概是全世界最好、最完整的 Deep Learning <b>中文</b>學習資源。
-- 影片內容涵蓋基本理論（約 10 小時觀看時間）一直到進階的[生成對抗網路 GAN](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C) 以及[強化學習 RL](https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
-- 你也可以從[這邊](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ/playlists)看到教授的 Youtube 課程清單
-- [李宏毅机器学习笔记(LeeML-Notes，簡體)](https://github.com/datawhalechina/leeml-notes) 則將教授上課的影片內容轉換為完整的筆記，方便快速瀏覽所有課程內容。
+- 大概是全世界最好、最完整的深度學習<b>中文</b>學習資源，且作業皆提供 Colab 筆記本範例。
+- 影片內容涵蓋基本理論（約 10 小時觀看時間）一直到進階的[生成對抗網路 GAN](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C) 以及[強化學習 RL](https://zh.wikipedia.org/wiki/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)。
+- 想學語音辨識或是自然語言處理則可參考教授的[用深度學習處理人類語言](http://speech.ee.ntu.edu.tw/~tlkagk/courses_DLHLP20.html)。
+- [李宏毅机器学习笔记(LeeML-Notes，簡體)](https://github.com/datawhalechina/leeml-notes) 則將教授上課的影片內容轉為筆記，方便瀏覽課程內容。
 
 ### [Deep Learning Specialization @ Coursera](https://www.coursera.org/specializations/deep-learning)
 
@@ -195,8 +195,8 @@
 
 ### [MIT Deep Learning](https://deeplearning.mit.edu/)
 
-- 麻省理工學院推出的深度學習課程，內容包含深度學習基礎、深度強化學習以及自動駕駛相關知識。[Github Repo](https://github.com/lexfridman/mit-deep-learning) 包含了多個教學筆記本，值得參考
-- 上圖是 [DeepTraffic](https://selfdrivingcars.mit.edu/deeptraffic/)，由 MIT 的研究科學家 [Lex Fridman](https://lexfridman.com/) 推出的一個深度強化學習競賽。此競賽目標是建立一個可以在高速公路上駕駛汽車的神經網路。你可以在[這裡](https://selfdrivingcars.mit.edu/deeptraffic/)看到線上 Demo 以及詳細說明
+- 麻省理工學院推出的深度學習課程，內容包含深度學習基礎、深度強化學習以及自動駕駛相關知識。[Github Repo](https://github.com/lexfridman/mit-deep-learning) 包含了多個教學筆記本，值得參考。
+- 上圖是 [DeepTraffic](https://selfdrivingcars.mit.edu/deeptraffic/)，由 MIT 的研究科學家 [Lex Fridman](https://lexfridman.com/) 推出的一個深度強化學習競賽。此競賽目標是建立一個可以在高速公路上駕駛汽車的神經網路。你可以在[這裡](https://selfdrivingcars.mit.edu/deeptraffic/)看到線上 Demo 以及詳細說明。
 
 ---
 
@@ -206,7 +206,7 @@
 
 ### [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 
-- 麻省理工學院推出的另一堂基礎深度學習課程，介紹深度學習以及其應用。內容涵蓋機器翻譯、圖像辨識以及更多其他應用。此課程使用 Python 以及 TensorFlow 來實作作業，並預期學生具備基礎的微積分（梯度 & Chain Rule）以及線性代數（矩陣相乘）
+- 麻省理工學院推出的另一堂基礎深度學習課程，介紹深度學習以及其應用。內容涵蓋機器翻譯、圖像辨識以及更多其他應用。此課程使用 Python 以及 TensorFlow 來實作作業，並預期學生具備基礎的微積分（梯度下降、鏈鎖律）以及線性代數（矩陣相乘）。
 
 ### [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 
