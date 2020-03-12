@@ -204,7 +204,7 @@
 |:---:|:---:|
 |<a href="http://introtodeeplearning.com"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/intro-to-deeplearning-mit.jpg"></a>|<a href="https://www.coursera.org/learn/ai-for-everyone"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/ai-for-everyone.jpg"></a>
 
-### [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)
+### [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 
 - 麻省理工學院推出的另一堂基礎深度學習課程，介紹深度學習以及其應用。內容涵蓋機器翻譯、圖像辨識以及更多其他應用。此課程使用 Python 以及 TensorFlow 來實作作業，並預期學生具備基礎的微積分（梯度 & Chain Rule）以及線性代數（矩陣相乘）
 
@@ -318,7 +318,7 @@
 
 ---
 
-|[Stanford CS230 Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)|[practicalAI](https://github.com/GokuMohandas/practicalAI)|
+|[Stanford CS230 Cheatsheets](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)|[practicalAI](https://github.com/madewithml/practicalAI)|
 |:---:|:---:|
 |<a href="https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tutorials/cs230-deep-learning-cheatsheet.jpg"></a>|<a href="https://github.com/GokuMohandas/practicalAI"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tutorials/practical-ai-pytorch.jpg"></a>
 
@@ -328,9 +328,9 @@
 - 此小抄最適合已經熟悉基礎知識的同學隨時複習運用。你也可以從他們的 [Github Repo](https://github.com/afshinea/stanford-cs-230-deep-learning) 下載包含上述所有內容的[超級 VIP 小抄](https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf)
 - 除了深度學習以外，你也可以查看 [CS229 機器學習課程的小抄](https://stanford.edu/~shervine/teaching/cs-229.html)
 
-### [practicalAI](https://github.com/GokuMohandas/practicalAI)
-- 在 Github 上超過 1 萬星的 Repo。除了深度學習，也有介紹 [Python 基礎](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/01_Python.ipynb)及 [Pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb) 的使用方式
-- 使用 [Pytorch](https://pytorch.org/) 框架來實現深度學習模型，且所有內容都是 Jupyter 筆記本，可以讓你在 Colab 或本地端執行
+### [practicalAI](https://github.com/madewithml/practicalAI)
+- 在 Github 上超過 1 萬星的 Repo。除了深度學習，也有介紹 [Python 基礎](https://colab.research.google.com/github/practicalAI/practicalAI/blob/master/notebooks/basic_ml/01_Python.ipynb)及 [Pandas](https://colab.research.google.com/github/practicalAI/practicalAI/blob/master/notebooks/basic_ml/03_Pandas.ipynb) 的使用方式
+- 使用 [PyTorch](https://pytorch.org/) 框架來實現深度學習模型，且所有內容都是 Jupyter 筆記本，可以讓你在 Colab 或本地端執行
 
 ---
 
