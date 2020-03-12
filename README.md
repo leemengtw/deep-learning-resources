@@ -334,14 +334,19 @@
 
 ---
 
-|[AllenNLP Demo](http://demo.allennlp.org/)| To Be Updated
+|[AllenNLP Demo](http://demo.allennlp.org/)| [Hands-on Machine Learning 2](https://github.com/ageron/handson-ml2)
 |:---:|:---:|
-|<a href="http://demo.allennlp.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/allennlp-demo.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="http://demo.allennlp.org/"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/allennlp-demo.jpg"></a>|<a href="https://github.com/ageron/handson-ml2"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tutorials/handson-ml2.jpg"></a>
 
 ### [AllenNLP Demo](http://demo.allennlp.org/)
 
 - 清楚地展示了如[機器理解](https://demo.allennlp.org/machine-comprehension)、[命名實體識別](https://demo.allennlp.org/named-entity-recognition)等多個自然語言處理任務的情境。每個任務的情境包含了任務所需要的輸入、SOTA 模型的預測結果以及模型內部的注意力機制，對理解一個 NLP 任務的實際應用情境有很大幫助
 - [AllenNLP](https://allennlp.org/) 是一個由 [AI2](https://allenai.org/) 以 [PyTorch](https://pytorch.org/) 實現的自然語言處理函式庫
+
+### [Hands-on Machine Learning 2](https://github.com/ageron/handson-ml2)
+
+- 前 YouTube 影片分類 PM [Aurélien Geron](https://twitter.com/aureliengeron) 教你如何透過 Scikit-Learn、Keras 以及 TensorFlow 2 來進行機器學習以及深度學習任務與應用的筆記本彙整。
+- 第二版專注在 TensorFlow 2，其 Github repo 已有超過 6 千顆星，[第一版](https://github.com/ageron/handson-ml)則有高達 2 萬星。
 
 ## <div id="blogs">優質文章</div>
 這邊列舉了一些幫助我釐清重要概念的部落格以及網站，希望能加速你探索這個深度學習世界。
@@ -357,7 +362,7 @@
 - [Jay Alammar's blog](https://jalammar.github.io/)
     - 以清楚易懂的視覺化解釋深度學習概念。[這篇](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)用大量易懂的動畫說明[神經機器翻譯](https://en.wikipedia.org/wiki/Neural_machine_translation)，而在[這篇](https://jalammar.github.io/illustrated-bert/)則介紹如何利用如 [ELMo](https://allennlp.org/elmo)、[BERT](https://github.com/google-research/bert) 等預先訓練過的強大模型在自然語言處理進行[遷移學習](https://en.wikipedia.org/wiki/Transfer_learning)
 - [Andrej Karpathy's blog](http://karpathy.github.io/)
-    - 現為 Tesla AI 負責人的 Andrej Karpathy 在[這篇](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)明確說明何謂循環神經網路 RNN。文中提供不少應用實例及視覺化來幫助我們理解 RNN 模型究竟學到了什麼，是學習 RNN 的朋友幾乎一定會碰到的一篇文章
+    - 現為 Tesla AI 負責人的 [Andrej Karpathy](https://twitter.com/karpathy) 在[這篇](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)明確說明何謂循環神經網路 RNN。文中提供不少應用實例及視覺化來幫助我們理解 RNN 模型究竟學到了什麼，是學習 RNN 的朋友幾乎一定會碰到的一篇文章
 
 ## <div id="papers">經典論文</div>
 這邊依發表時間列出深度學習領域的經典 / 重要論文。
