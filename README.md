@@ -283,9 +283,9 @@
 
 ---
 
-|[BertViz](https://github.com/jessevig/bertviz)| To Be Updated
+|[BertViz](https://github.com/jessevig/bertviz)| [ML Visuals](https://github.com/dair-ai/ml-visuals)
 |:---:|:---:|
-|<a href="https://github.com/jessevig/bertviz"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/bertviz.jpg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="https://github.com/jessevig/bertviz"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/bertviz.jpg"></a>|<a href="https://github.com/dair-ai/ml-visuals"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/tools/ml-visuals.jpg"></a>
 
 ### [BertViz](https://github.com/jessevig/bertviz)
 
@@ -293,6 +293,11 @@
 - 以下則是幾篇透過 BertViz 來直觀解說 BERT 與 GPT-2 的文章
   - [進擊的 BERT：NLP 界的巨人之力與遷移學習](https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html)
   - [直觀理解 GPT-2 語言模型並生成金庸武俠小說](https://leemeng.tw/gpt2-language-model-generate-chinese-jing-yong-novels.html)
+
+### [ML Visuals](https://github.com/dair-ai/ml-visuals)
+
+- ML Visuals 是一個社群開源項目，提供超過 100 個常見的機器學習概念 / 深度學習架構圖，可讓任何人在學術論文或是文章直接使用這些圖表。
+- 所有圖表都可以直接從 [Google slide](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit?usp=sharing) 上觀看並使用。建議前往 [Github repo](https://github.com/dair-ai/ml-visuals) 查看最新版本。
 
 
 ## <div id="tutorials">其他教材</div>
