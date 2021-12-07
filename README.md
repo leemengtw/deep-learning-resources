@@ -230,6 +230,18 @@
 - 由[史丹佛 Vision Lab 的李飛飛（Fei-Fei Li）教授](http://vision.stanford.edu/index.html)等人以[圖像分類](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture02.pdf)任務為軸心，講述卷積神經網路以及所有電腦視覺的相關基礎知識。這是想要學會使用（卷積）神經網路來處理圖像數據的人不可不學的一堂課。[Youtube 上有 16 部 2017 年的課程錄影](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)，每部約長 1 小時。
 - 課程中也包含了不少線上展示，如[線性分類器的 loss 視覺化](http://vision.stanford.edu/teaching/cs231n-demos/linear-classify/)、[kNN demo](http://vision.stanford.edu/teaching/cs231n-demos/knn/) 以及圖像分類的 [CIFAR-10 demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html)。
 
+---
+
+|[Making Friends with Machine Learning](https://bit.ly/mf-ml)| To be Updated
+|:---:|:---:|
+|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/make-friend-with-machine-learning.jpeg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+
+### [Making Friends with Machine Learning](https://bit.ly/mf-ml)
+
+- MFML 是一門對 Google 內部開授的 ML/AI 訓練課程，由其 Chief Decision Scientist [Cassie Kozyrkov](https://kozyrkov.medium.com/) 主講。此課程於 [2021/11/25 對外開放](https://decision.substack.com/p/full-course-making-friends-with-ml)。
+- 此課程提供從構思 ML 專案到 launch AI 產品的步驟與大局觀，十分適合剛接觸相關領域的產品經理與企業決策者入門。
+
+
 
 ## <div id="tools">實用工具</div>
 這節列出一些在你的深度學習路上可以幫得上些忙的工具。
