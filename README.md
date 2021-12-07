@@ -234,7 +234,7 @@
 
 |[Making Friends with Machine Learning](https://bit.ly/mf-ml)| To be Updated
 |:---:|:---:|
-|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/make-friend-with-machine-learning.jpeg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
+|<a href="https://bit.ly/mf-ml"><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/courses/make-friend-with-machine-learning.jpeg"></a>|<a href=""><img src="https://github.com/leemengtaiwan/deep-learning-resources/raw/master/images/general/to-be-updated.jpg"></a>
 
 ### [Making Friends with Machine Learning](https://bit.ly/mf-ml)
 
